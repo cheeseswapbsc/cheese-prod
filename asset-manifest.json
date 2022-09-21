@@ -1,23 +1,25 @@
 {
   "files": {
-    "static/js/0.7d46eb96.chunk.js": "https://cheeseswap.app/static/js/0.7d46eb96.chunk.js",
-    "main.js": "https://cheeseswap.app/static/js/main.7f445dbe.chunk.js",
-    "runtime-main.js": "https://cheeseswap.app/static/js/runtime-main.a68c0a4f.js",
+    "static/js/0.006a08ee.chunk.js": "https://cheeseswap.app/static/js/0.006a08ee.chunk.js",
+    "main.js": "https://cheeseswap.app/static/js/main.7742bfe6.chunk.js",
+    "runtime-main.js": "https://cheeseswap.app/static/js/runtime-main.8512d2bd.js",
     "static/css/3.7155f760.chunk.css": "https://cheeseswap.app/static/css/3.7155f760.chunk.css",
-    "static/js/3.3fbe1260.chunk.js": "https://cheeseswap.app/static/js/3.3fbe1260.chunk.js",
-    "static/js/4.cc2199ed.chunk.js": "https://cheeseswap.app/static/js/4.cc2199ed.chunk.js",
-    "static/js/5.dc40bcf2.chunk.js": "https://cheeseswap.app/static/js/5.dc40bcf2.chunk.js",
-    "static/js/6.bebdc5eb.chunk.js": "https://cheeseswap.app/static/js/6.bebdc5eb.chunk.js",
-    "static/js/7.2b2d8982.chunk.js": "https://cheeseswap.app/static/js/7.2b2d8982.chunk.js",
-    "static/js/8.e706b82c.chunk.js": "https://cheeseswap.app/static/js/8.e706b82c.chunk.js",
+    "static/js/3.a84a0371.chunk.js": "https://cheeseswap.app/static/js/3.a84a0371.chunk.js",
+    "static/js/4.111defe3.chunk.js": "https://cheeseswap.app/static/js/4.111defe3.chunk.js",
+    "static/js/5.40d1d131.chunk.js": "https://cheeseswap.app/static/js/5.40d1d131.chunk.js",
+    "static/js/6.0a61e0d0.chunk.js": "https://cheeseswap.app/static/js/6.0a61e0d0.chunk.js",
+    "static/js/7.89afad89.chunk.js": "https://cheeseswap.app/static/js/7.89afad89.chunk.js",
+    "static/js/8.60251fc8.chunk.js": "https://cheeseswap.app/static/js/8.60251fc8.chunk.js",
     "index.html": "https://cheeseswap.app/index.html",
-    "precache-manifest.b05c36a1f71f0885e1dab3013b70ac10.js": "https://cheeseswap.app/precache-manifest.b05c36a1f71f0885e1dab3013b70ac10.js",
+    "precache-manifest.ca0023727d1300d8eccb9b76063eedf0.js": "https://cheeseswap.app/precache-manifest.ca0023727d1300d8eccb9b76063eedf0.js",
     "service-worker.js": "https://cheeseswap.app/service-worker.js",
-    "static/js/3.3fbe1260.chunk.js.LICENSE.txt": "https://cheeseswap.app/static/js/3.3fbe1260.chunk.js.LICENSE.txt",
-    "static/js/4.cc2199ed.chunk.js.LICENSE.txt": "https://cheeseswap.app/static/js/4.cc2199ed.chunk.js.LICENSE.txt",
-    "static/js/6.bebdc5eb.chunk.js.LICENSE.txt": "https://cheeseswap.app/static/js/6.bebdc5eb.chunk.js.LICENSE.txt",
+    "static/js/3.a84a0371.chunk.js.LICENSE.txt": "https://cheeseswap.app/static/js/3.a84a0371.chunk.js.LICENSE.txt",
+    "static/js/4.111defe3.chunk.js.LICENSE.txt": "https://cheeseswap.app/static/js/4.111defe3.chunk.js.LICENSE.txt",
+    "static/js/6.0a61e0d0.chunk.js.LICENSE.txt": "https://cheeseswap.app/static/js/6.0a61e0d0.chunk.js.LICENSE.txt",
+    "static/media/BLDOGE.png": "https://cheeseswap.app/static/media/BLDOGE.4e8ebd91.png",
     "static/media/inter.css": "https://cheeseswap.app/static/media/Inter.var.8dd26c3d.woff2",
     "static/media/KIWI.png": "https://cheeseswap.app/static/media/KIWI.d578b36f.png",
+    "static/media/MSHIB.png": "https://cheeseswap.app/static/media/MSHIB.83ca9ba2.png",
     "static/media/arrow-down-blue.svg": "https://cheeseswap.app/static/media/arrow-down-blue.70ef93bb.svg",
     "static/media/arrow-down-grey.svg": "https://cheeseswap.app/static/media/arrow-down-grey.91343ea9.svg",
     "static/media/arrow-right.svg": "https://cheeseswap.app/static/media/arrow-right.2d14d4c1.svg",
@@ -55,9 +57,9 @@
     "static/media/x.svg": "https://cheeseswap.app/static/media/x.93df88f8.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a68c0a4f.js",
+    "static/js/runtime-main.8512d2bd.js",
     "static/css/3.7155f760.chunk.css",
-    "static/js/3.3fbe1260.chunk.js",
-    "static/js/main.7f445dbe.chunk.js"
+    "static/js/3.a84a0371.chunk.js",
+    "static/js/main.7742bfe6.chunk.js"
   ]
 }
