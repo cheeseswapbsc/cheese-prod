@@ -1,1 +1,0 @@
-(this["webpackJsonp@cheeswap/interface"]=this["webpackJsonp@cheeswap/interface"]||[]).push([[8],{762:function(e,c){}}]);
